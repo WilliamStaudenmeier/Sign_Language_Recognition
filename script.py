@@ -30,7 +30,7 @@ from tensorflow.python.util import compat
 
 FLAGS = None
 
-os. chdir("C:\\Users\\James\Desktop\sign-language-alphabet-recognizer-master") 
+os. chdir("C:\\Users\\William\Desktop\hand_gestures") 
 
 DATA_URL = 'http://download.tensorflow.org/models/image/imagenet/inception-2015-12-05.tgz'
 
